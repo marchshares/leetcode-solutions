@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * <a href="https://leetcode.com/problems/two-sum/">1. Two Sum</a>
  * */
-public class TwoSum {
+public class _1TwoSum {
 
     public static void main(String[] args) {
         int[] nums = new int[]{2,7,11,15};

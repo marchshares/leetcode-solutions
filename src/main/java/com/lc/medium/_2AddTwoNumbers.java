@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * <a href="https://leetcode.com/problems/add-two-numbers/">2. Add Two Numbers</a>
  * */
-public class AddTwoNumbers {
+public class _2AddTwoNumbers {
 
     public static void main(String[] args) {
         ListNode l1 =

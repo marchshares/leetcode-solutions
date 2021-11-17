@@ -3,7 +3,7 @@ package com.lc.easy;
 /**
  * <a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer</a>
  * */
-public class RomanToInteger {
+public class _13RomanToInteger {
 
     public static void main(String[] args) {
         int res = new Solution().romanToInt("III");

@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * <a href="https://leetcode.com/problems/palindrome-number/">9. Palindrome Number</a>
  * */
-public class PalindromeNumber {
+public class _9PalindromeNumber {
 
     public static void main(String[] args) {
         boolean res = new Solution().isPalindrome(121);
