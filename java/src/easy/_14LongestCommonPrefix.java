@@ -1,4 +1,4 @@
-package com.lc.easy;
+package easy;
 
 /**
  * <a href="https://leetcode.com/problems/longest-common-prefix/">14. Longest Common Prefix</a>
