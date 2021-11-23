@@ -16,17 +16,19 @@ Profile: https://leetcode.com/marchshares/
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | [Java](java/src/medium/_11ContainerWithMostWater.java) 
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [Java](java/src//easy/_13RomanToInteger.java) 
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | [Java](java/src//easy/_14LongestCommonPrefix.java)
-| [15. 3Sum](https://leetcode.com/problems/3sum) | Medium | [Java](java/src/medium/_15ThreeSum.java) 
+| [15. 3Sum](https://leetcode.com/problems/3sum) | Medium | [Java](java/src/medium/_15ThreeSum.java)
+| [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Java](java/src/medium/_39CombinationSum.java) [Python](python3/src/medium/_39_combination_sum.py)
+| [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Python](python3/src/medium/_40_combination_sum_II.py) 
 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [Python](python3/src/medium/_43_multiply_strings.py)
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Python](python3/src/easy/_53_maximum_subarray.py) 
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Python](python3/src/easy/_58_length_of_last_word.py) 
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](python3/src/easy/_66_plus_one.py) 
-
+| [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](python3/src/easy/_67_Add_Binary.py) 
 
 ```sh
 Templates
 | []() | Easy | [Java](java/src/easy/.java) 
-| []() | Medium | [Java](java/src/medium/.java)  
+| []() | Medium | [Java](java/src/medium/.java)    
 | []() | Easy | [Python](python3/src/easy/) 
 | []() | Medium | [Python](python3/src/medium/) 
 ```
