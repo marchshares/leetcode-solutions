@@ -33,4 +33,13 @@ Templates
 | []() | Medium | [Python](python3/src/medium/) 
 ```
 
+## Yandex Contest solutions
+| Title | Type | Solution |
+| ----- | ----- | ----- |
+| C. Удаление дубликатов | Sample | [Python](yandex_contest/sample/task3.py)
+| D. Генерация скобочных последовательностей | Sample | [Python](yandex_contest/sample/task4.py) 
+| E. Анаграммы | Sample | [Python](yandex_contest/sample/task5.py) 
+| G. Интересное путешествие | Sample | [Python](yandex_contest/sample/task6.py)  
+| D. Задача 4. | fast_track_analytics_2021 | [Python](yandex_contest/fast_track_analytics_2021/task4.py)
+| E. Задача 5. | fast_track_analytics_2021 | [Python](yandex_contest/fast_track_analytics_2021/task5.py)
 
