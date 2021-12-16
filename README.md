@@ -24,6 +24,7 @@ Profile: https://leetcode.com/marchshares/
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Python](python3/src/medium/_48_Rotate_Image.py)
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Python](python3/src/easy/_53_maximum_subarray.py) 
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Python](python3/src/easy/_58_length_of_last_word.py) 
+| [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/submissions/) | Medium | [Python](python3/src/medium/_64_Minimum_Path_Sum.py) 
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](python3/src/easy/_66_plus_one.py) 
 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](python3/src/easy/_67_Add_Binary.py) 
 
