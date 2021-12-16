@@ -20,6 +20,7 @@ Profile: https://leetcode.com/marchshares/
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Java](java/src/medium/_39CombinationSum.java) [Python](python3/src/medium/_39_combination_sum.py)
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Python](python3/src/medium/_40_combination_sum_II.py) 
 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [Python](python3/src/medium/_43_multiply_strings.py)
+| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [Python](python3/src/medium/_45_Jump_Game_II.py)
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [Python](python3/src/medium/_48_Rotate_Image.py)
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Python](python3/src/easy/_53_maximum_subarray.py) 
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Python](python3/src/easy/_58_length_of_last_word.py) 
